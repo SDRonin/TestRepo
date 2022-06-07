@@ -2,5 +2,5 @@ This is the first text file.
 
 [some empty spaces]
 
-
+I'm going to add text here while working on the local clone.
 
