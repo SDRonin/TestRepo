@@ -6,4 +6,8 @@ I'm going to add text here while working on the local clone.
 
 Added this text while local clone is ahead in commits
 
+<<<<<<< HEAD
 This is text for merge conflict written from local PC clone
+=======
+Some text too use for merge conflict
+>>>>>>> d9bc35fea7999fe18c475eb1fddd626414d52429
