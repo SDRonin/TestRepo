@@ -7,3 +7,5 @@ I'm going to add text here while working on the local clone.
 Added this text while local clone is ahead in commits
 
 This is text for merge conflict written from local PC clone
+
+Made more text while html file was worked on
