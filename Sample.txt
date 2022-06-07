@@ -5,3 +5,5 @@ This is the first text file.
 I'm going to add text here while working on the local clone.
 
 Added this text while local clone is ahead in commits
+
+Some text too use for merge conflict
