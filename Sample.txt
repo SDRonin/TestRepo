@@ -11,3 +11,4 @@ This is text for merge conflict written from local PC clone
 Made more text while html file was worked on
 
 Some other text but from clone.
+An extra line.
